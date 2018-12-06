@@ -1,0 +1,13 @@
+{
+	"short_name":"Clean Blog",
+	"name":"Clean Blog PWA",
+	"start_url":"/",
+	"background_color":"#000000",
+	"theme_color":"#000000",
+	"display":"standalone",
+	"scope":"/",
+	"icons":[
+		{"src":"/img/icon192.png", "type":"image/png", "sizes":"192x192"},
+		{"src":"/img/icon512.png", "type":"image/png", "sizes":"512x512"}
+	]
+}
